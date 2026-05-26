@@ -1,6 +1,6 @@
 ---
 itemType: SRS
-itemTitle: Software Requirement Specification
+itemTitle: Software Requirement Specification (custom SRS item)
 itemFulfills: MPD-10
 requirementContext: Clinical
 Component: Application

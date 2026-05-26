@@ -5,6 +5,7 @@ itemType: Software Item Spec
 itemFulfills: MPD-10
 Context: Clinical
 Software item type: Security
+Component: Application
 ---
 ## Description
 A safety-critical module providing clinicians and patients with a real-time, consolidated view of glucose readings, insulin dose history, dietary data, and trend analytics.

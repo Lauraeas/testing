@@ -1,5 +1,5 @@
 ---
-itemId: unique-test-case-id
+itemId: unique-test-sub-case-id
 itemType: Sub-step
 itemTests: MD-1
 Test type: Verification
